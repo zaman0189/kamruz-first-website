@@ -70,3 +70,6 @@ color: orange;
     border-image:linear-gradient(blue, cyan) ;
     border-image-slice: 1;   
 }
+footer p {
+    text-align-last: center;
+}
